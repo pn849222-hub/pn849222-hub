@@ -12,6 +12,7 @@ the numbers actually mean rather than stopping at a chart.
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[vn-it-job-market](https://github.com/pn849222-hub/vn-it-job-market)** | Collects 672 live job postings and finds what Vietnamese IT employers actually ask for — 73% never name a salary, English outranks every technology | Python, SQLite, matplotlib |
 | [sales-data-analysis](https://github.com/pn849222-hub/sales-data-analysis) | EDA on 9,994 retail orders: category profit, regional mix, discount losses, YoY growth | Python, pandas, matplotlib |
 | [sql-query-portfolio](https://github.com/pn849222-hub/sql-query-portfolio) | 10 business queries, basic aggregation through a region × category matrix | SQL, SQLite, pandas |
 | [powerbi-dashboard](https://github.com/pn849222-hub/powerbi-dashboard) | Interactive sales dashboard: KPI cards, trend line, category and region breakdown | Power BI Desktop |
@@ -22,6 +23,7 @@ the numbers actually mean rather than stopping at a chart.
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[job-market-api](https://github.com/pn849222-hub/job-market-api)** | REST API serving the job market dataset: filtering, paging, health probes, Swagger, 11 tests | C#, ASP.NET Core, Dapper, Docker |
 | [nginx-docker-ssl-sample](https://github.com/pn849222-hub/nginx-docker-ssl-sample) | Static app behind Nginx with HTTP to HTTPS redirect, built as a practice stack | Docker Compose, Nginx, TLS |
 | [it-support-portfolio](https://github.com/pn849222-hub/it-support-portfolio) | One-page portfolio covering servers, networking, and virtualization work | HTML, CSS, JS |
 
