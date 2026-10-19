@@ -52,7 +52,7 @@ teams and clients.
 |---|---|---|
 | **[job-market-api](https://github.com/pn849222-hub/job-market-api)** | REST API serving the job market dataset: filtering, paging, split health probes, Swagger, 11 tests, non-root container | C#, ASP.NET Core, Dapper, Docker |
 | [nginx-docker-ssl-sample](https://github.com/pn849222-hub/nginx-docker-ssl-sample) | Static app behind Nginx with HTTP to HTTPS redirect, built as a practice stack | Docker Compose, Nginx, TLS |
-| [it-support-portfolio](https://github.com/pn849222-hub/it-support-portfolio) | One-page portfolio covering servers, networking, and virtualization work | HTML, CSS, JS |
+| [pn849222-hub.github.io](https://pn849222-hub.github.io/) | This portfolio as a one-page site, with the CV and the job-market case study | HTML, CSS, JS |
 
 ---
 
@@ -74,5 +74,6 @@ Write down what was done so the next person does not have to guess.
 
 ---
 
-**Available for freelance work** — backend APIs, data pipelines, dashboards, automation.
+**Available for freelance work** — backend APIs, data pipelines, dashboards, automation.\
+🌐 [pn849222-hub.github.io](https://pn849222-hub.github.io/) · 📊 [Live case study](https://pn849222-hub.github.io/vn-it-job-market/)\
 📧 pn849222@gmail.com
